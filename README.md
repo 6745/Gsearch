@@ -6,8 +6,9 @@ Adds a search box directly into the default Guild UI and filters the **native ro
 
 - Open the Guild window and type in the **Search:** box.
 - Clear the box (or press Escape) to return to the normal roster view.
-- Optional: `/gsearch` or `/gs` opens the Guild UI and focuses the search box.
+
 
 ## Notes
 
 - The guild roster updates asynchronously; if you just logged in, wait a moment for roster data to load.
+
