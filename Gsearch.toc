@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Gsearch++
+## Notes: Guild ui enhancements
+## Author: Taggy
+## Version: 0.0.1
+
+Gsearch.lua
